@@ -20,6 +20,7 @@ Supports basic arithmetic operations with clickable buttons and a live display.
 
 ---
 ## 📸 Preview
+![App Screenshot](https://raw.githubusercontent.com/janais9/SimpleCalculator/main/Screenshot%202025-12-09%20142634.png)
 
 ---
 ## 📁 Project Structure
